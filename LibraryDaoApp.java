@@ -520,6 +520,7 @@ public class LibraryDaoApp {
 				case 6:
 					System.out.println("6. 관리자화면 종료\n\n");
 					Welcome(sc); // 기본 화면
+					break;
 				default:
 					System.out.println("없는 메뉴입니다. 숫자를 다시 입력해주세요.");
 					break;
